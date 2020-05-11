@@ -1,6 +1,6 @@
 ## 🛍️ Shopping Cart
 
-1.  **Created a Shopping Cart site from React + Redux.**
+1.  **Created a Shopping Cart site using React + Redux.**
 
     This is a simple shopping app to order the products.   
 
