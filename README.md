@@ -24,3 +24,4 @@
     
 ## Demo!
 
+![Demo](https://github.com/Deepakhc26/shoppingCart/blob/master/snapshot/1.gif)
